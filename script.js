@@ -1,8 +1,4 @@
-(function(d,b,w){
-  console.log(d);
-  console.log(b);
-  console.log(w);
-  
+(function(d,b,w){  
 	var q = d.createElement('div');
 	q.id = "sakura";
 	q.innerHTML = '<style>'+
