@@ -1,12 +1,23 @@
 {
   "name": "create-sakura-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isihigameKoudai/SAKURA.git"
+  },
+  "bugs": {
+    "url": "https://github.com/isihigameKoudai/SAKURA/issues"
+  },
+  "homepage": "https://github.com/isihigameKoudai/SAKURA#readme",
+  "description": "",
+  "dependencies": {
+    "firebase-functions": "^2.2.1"
+  }
 }
